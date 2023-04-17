@@ -1,0 +1,14 @@
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\bin\Debug\net6.0\ExamBackEnd.Entities.deps.json
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\bin\Debug\net6.0\ExamBackEnd.Entities.dll
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\bin\Debug\net6.0\ExamBackEnd.Entities.pdb
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\obj\Debug\net6.0\ExamBackEnd.Entities.csproj.AssemblyReference.cache
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\obj\Debug\net6.0\ExamBackEnd.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\obj\Debug\net6.0\ExamBackEnd.Entities.AssemblyInfoInputs.cache
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\obj\Debug\net6.0\ExamBackEnd.Entities.AssemblyInfo.cs
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\obj\Debug\net6.0\ExamBackEnd.Entities.csproj.CoreCompileInputs.cache
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\obj\Debug\net6.0\ExamBackEnd.Entities.dll
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\obj\Debug\net6.0\refint\ExamBackEnd.Entities.dll
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\obj\Debug\net6.0\ExamBackEnd.Entities.pdb
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\obj\Debug\net6.0\ref\ExamBackEnd.Entities.dll
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\bin\Debug\net6.0\ExamBackEnd.Entities.runtimeconfig.json
+D:\enrichment\typescript\Exam\Exam-Back-End Programming-Intermediate\ExamBackEnd.Entities\obj\Debug\net6.0\ExamBackEnd.Entities.genruntimeconfig.cache
